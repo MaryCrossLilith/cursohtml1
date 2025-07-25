@@ -11,7 +11,7 @@
 
 .beneficios {
     background: white;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 #imagem {
@@ -37,7 +37,7 @@ ul {
 
 .imagembeneficios {
     width: 50%;
-    border: solid 2px rgb(156, 94, 156);
+    border: solid 2px rgb(223, 63, 143);
     
 }
 
