@@ -1,5 +1,5 @@
 body {
-   background: #af69cd;
+   background: rgb(247, 163, 176);
 }
 
 h2 {
@@ -12,5 +12,5 @@ p {
 }
 
 em strong {
-    color: #fc6998;
+    color: rgb(223, 92, 201);
 }
