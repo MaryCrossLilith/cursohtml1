@@ -1,6 +1,4 @@
-body {
-   
-}
+
 
 .principal {
      background: rgb(221, 171, 206);
@@ -51,6 +49,6 @@ em strong {
 .titulo {
     font-size: 20px;
     color:rgb(231, 67, 94)
-    padding-bottom: 5px solid rgb(126, 39, 126); 
-    margin-bottom: 3px solid rgb(216, 111, 216);  
-}
+    padding-bottom: 5px;
+    margin-bottom: 3px;  
+  }
